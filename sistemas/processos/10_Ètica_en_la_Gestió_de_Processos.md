@@ -46,3 +46,4 @@ Establir canals de comunicació per a la discussió oberta de qüestions ètique
 Avaluació Ètica de Resultats:
 
 Incorporar una avaluació ètica en els resultats dels processos gestionats, mitjançant l'anàlisi de les repercussions ètiques de les decisions preses.
+![Alt text](image.png)
