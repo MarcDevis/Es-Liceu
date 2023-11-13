@@ -1,3 +1,19 @@
 # Introducció
-La gestió de processos és fonamental per assegurar l'èxit del desenvolupament de software. Aquest treball explora els models de processos, el cicle de vida del software, la documentació, la gestió de riscos i altres aspectes rellevants. Des de les eines de gestió fins a la ètica professional, examinarem com aquesta disciplina és clau per garantir la eficiència i qualitat en els projectes informàtics. Amb aquesta introducció, es planteja una visió general dels temes que es desglossaran a continuació.
-#apartats
+Definició: La gestió de processos és un enfocament sistemàtic per supervisar, dissenyar, executar i optimitzar els processos empresarials per millorar l'eficiència i assolir els objectius empresarials.
+
+Importància en Informàtica: En l'àmbit informàtic, la gestió de processos és fonamental per coordinar les fases del desenvolupament de programari, assegurant un ús eficient dels recursos i la lliurament de productes de qualitat.
+
+Objectius:
+
+Maximitzar l'eficiència en l'execució de tasques.
+Minimitzar els riscos i les ineficiències.
+Assegurar la qualitat dels productes de software.
+Eines:
+
+Plataformes de gestió de projectes com Jira.
+Aplicacions de seguiment de tasques com Trello.
+Desafiaments Comuns:
+
+Canvis freqüents en els requisits del client.
+Manca de comunicació entre els membres de l'equip.
+Ús ineficient dels recursos disponibles.
