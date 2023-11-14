@@ -27,3 +27,4 @@ Manca de comunicació entre els membres de l'equip.
 [Gestión de recursos](09_Gesti%C3%B3_de_Recursos.md)
 [Ética de la Gestión de Procesos](10_%C3%88tica_en_la_Gesti%C3%B3_de_Processos.md)
 
+[Volver](../README.md)
