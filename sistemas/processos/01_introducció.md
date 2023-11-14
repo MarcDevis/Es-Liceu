@@ -17,6 +17,7 @@ Desafiaments Comuns:
 Canvis freqüents en els requisits del client.
 Manca de comunicació entre els membres de l'equip.
 Ús ineficient dels recursos disponibles.
+
 [Modelo de procesos](02-Model_de_processos.md)
 
 [Desenvolupament de Software](03-Desenvolupament_de_Software.md)
